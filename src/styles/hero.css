@@ -1,0 +1,28 @@
+.carousel__dot{
+	padding-top: 0.4rem;
+	padding-bottom: 0.4rem;
+	border-radius: 1rem;
+	padding-left: 0.4rem;
+	padding-right: 0.4rem;
+	border: none;
+	margin-right: .6rem;
+}
+
+@font-face {
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	src: local('Roboto Regular'),
+		 local('Roboto-Regular'),
+		 url(http://themes.googleusercontent.com/static/fonts/roboto/v11/2UX7WLTfW3W8Tc1TUvFyQ.woff),
+		 format('woff');
+
+}
+
+.imageClass{
+	background-image: linear-gradient(red, yellow);
+}
+
+#GradientContain{
+	background: linear-gradient(red, yellow);
+}
